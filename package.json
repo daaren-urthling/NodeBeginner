@@ -1,0 +1,7 @@
+{
+  "name": "NodeBeginner-Sample-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  }
+}
